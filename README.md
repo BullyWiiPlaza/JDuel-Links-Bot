@@ -30,5 +30,5 @@ You may create an issue directly here on `GitHub` or contact me privately.
 ## Contact
 
 - [YouTube channel](https://www.youtube.com/user/BullyWiiPlaza)
-- [bullywiihacks@gmail.com](mailto:bullywiihacks@gmail.com) (E-Mail)
+- bullywiihacks AT gmail DOT com (e-mail)
 - BullyWiiPlaza#3947 ([Discord](https://discordapp.com))
