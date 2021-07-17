@@ -17,7 +17,7 @@ This is an ultimate all-in-one modding tool and farming bot for the [**`Yu-Gi-Oh
 
 ## Download
 
-The download is free so don't hesitate to check it out and see if you like it. You can download the application from the video description [**here**](https://www.youtube.com/watch?v=9Qiv7WyxtPs).
+The download is free so don't hesitate to check it out and see if you like it. You can download the application from the GitHub releases tab [**here**](https://github.com/BullyWiiPlaza/JDuel-Links-Bot/releases/latest).
 
 ## Requirements
 
